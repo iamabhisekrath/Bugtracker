@@ -1,0 +1,10 @@
+git-bug
+!/misc/completion/bash/git-bug
+!/misc/completion/fish/git-bug
+!/misc/completion/powershell/git-bug
+!/misc/completion/zsh/git-bug
+.gitkeep
+dist
+coverage.txt
+.idea/
+.git_bak*
